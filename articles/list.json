@@ -14,5 +14,14 @@
     "category": "প্রোগ্রামিং",
     "image": "images/article2.jpg",
     "content": "Java দিয়ে GUI অ্যাপ বানাতে পারেন Swing বা JavaFX দিয়ে। Swing হচ্ছে সহজ এবং lightweight framework, যা প্রায় সব Android IDE-তেই চলে..."
-  }
+  },
+  {
+  "file": "article",
+  "title": "Advanced XSS Exploitation Techniques",
+  "date": "2025-07-29",
+  "category": "এথিক্যাল হ্যাকিং ট্রিকস",
+  "image": "images/article3.jpg",
+  "content": "এই আর্টিকেলে আমরা আলোচনা করব DOM-based XSS, Blind XSS এবং Content Security Policy (CSP) বাইপাস কৌশল নিয়ে..."
+}
+
 ]
