@@ -1,7 +1,7 @@
 [
   {
     "file": "article1",
-    "title": "SQL Injection ম্যানুয়াল ট্রিকস",
+    "title": "SQL Injection",
     "date": "2025-07-29",
     "category": "এথিক্যাল হ্যাকিং ট্রিকস",
     "image": "images/article1.jpg",
@@ -9,7 +9,7 @@
   },
   {
     "file": "article2",
-    "title": "Java দিয়ে কিভাবে GUI App বানাবেন",
+    "title": "Java GUI App Create",
     "date": "2025-07-29",
     "category": "প্রোগ্রামিং",
     "image": "images/article2.jpg",
