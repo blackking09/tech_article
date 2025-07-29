@@ -2,6 +2,6 @@
   "title": "Advanced XSS Exploitation Techniques",
   "date": "2025-07-29",
   "category": "এথিক্যাল হ্যাকিং ট্রিকস",
-  "image": "images/article3.jpg",
+  "image": "images/cross-site-scripting-xss.webp",
   "content": "এই আর্টিকেলে আমরা আলোচনা করব DOM-based XSS, Blind XSS এবং Content Security Policy (CSP) বাইপাস কৌশল নিয়ে। XSS হলো একটি Client-side vulnerability যা ব্যবহারকারীর ব্রাউজারে malicious script ইনজেক্ট করতে দেয়।"
 }
