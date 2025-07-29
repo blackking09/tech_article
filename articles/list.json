@@ -22,6 +22,13 @@
   "category": "এথিক্যাল হ্যাকিং ট্রিকস",
   "image": "images/article3.jpg",
   "content": "এই আর্টিকেলে আমরা আলোচনা করব DOM-based XSS, Blind XSS এবং Content Security Policy (CSP) বাইপাস কৌশল নিয়ে..."
+},
+   {
+  "file": "article4",
+  "title": "Gmail to controll android",
+  "date": "2025-07-29",
+  "category": "এথিক্যাল হ্যাকিং ট্রিকস",
+  "image": "images/article3.jpg",
+  "content": "about gmail to hack android devices remotely"
 }
-
 ]
