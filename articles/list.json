@@ -1,0 +1,18 @@
+[
+  {
+    "file": "article1",
+    "title": "SQL Injection ম্যানুয়াল ট্রিকস",
+    "date": "2025-07-29",
+    "category": "এথিক্যাল হ্যাকিং ট্রিকস",
+    "image": "images/article1.jpg",
+    "content": "SQL Injection হচ্ছে একটি জনপ্রিয় ওয়েব অ্যাটাক টেকনিক যা SQL কমান্ড ইনজেক্ট করে ডেটাবেস থেকে তথ্য বের করে। এটি ম্যানুয়ালি করতে হলে কিছু নির্দিষ্ট প্যারামিটার ব্যবহার করতে হয়..."
+  },
+  {
+    "file": "article2",
+    "title": "Java দিয়ে কিভাবে GUI App বানাবেন",
+    "date": "2025-07-29",
+    "category": "প্রোগ্রামিং",
+    "image": "images/article2.jpg",
+    "content": "Java দিয়ে GUI অ্যাপ বানাতে পারেন Swing বা JavaFX দিয়ে। Swing হচ্ছে সহজ এবং lightweight framework, যা প্রায় সব Android IDE-তেই চলে..."
+  }
+]
