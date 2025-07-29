@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main id="article-content"></main>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const article = urlParams.get("article");
+        fetch(`articles/${article}.json`)
+            .then(res => res.json())
+            .then(data => {
+                const main = document.getElementById("article-content");
+                main.innerHTML = `
+                    <h1>${data.title}</h1>
+                    <p><em>${data.date} | ${data.category}</em></p>
+                    <img src="${data.image}" alt="${data.title}">
+                    <p>${data.content}</p>
+                `;
+            });
+    </script>
+</body>
+</html>
